@@ -1,0 +1,9 @@
+{
+	"name": "work_hisotry",
+	"dockerComposeFile": [
+		"../docker-compose.yml",
+	],
+	"service": "work_history",
+	"workspaceFolder": "/home"
+	// "customizations": {}
+}
